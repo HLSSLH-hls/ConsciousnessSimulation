@@ -4,6 +4,11 @@
 
 ## 注意
 目前用的是Deepseek的API，这个请使用者将自己的API_KEY放在config.py的对应字符串常量里面即可运行。
+
+## 架构图
+
+![Digital Subject Architecture](图片1.png)
+
 ## 0. 项目目标（Project Goal）
 本项目实现一个以 **30 秒为时间步**运行的“数字认知主体控制器”。系统以可持续运行的方式整合：
 
