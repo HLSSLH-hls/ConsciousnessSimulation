@@ -4,7 +4,7 @@
 
 **Building the technological foundation for human subjecthood beyond biological limitations.**
 
-Consciousness Engineering is an emerging interdisciplinary field exploring how human consciousness, identity, agency, and personal development can be preserved, extended, and transformed in artificial substrates.
+I coined the term **Consciousness Engineering** to describe an interdisciplinary field exploring how human consciousness, identity, agency, and personal development can be preserved, extended, and transformed within artificial substrates. While my initial definition focused primarily on consciousness and the psyche(2022-2025), I expanded the scope in 2026 to encompass human agency and subjecthood.
 
 This repository is part of the **2046 Consciousness Transfer Plan**, an experimental framework exploring the transition from biological human existence toward post-biological digital existence.
 
