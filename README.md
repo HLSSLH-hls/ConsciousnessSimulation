@@ -16,7 +16,7 @@ The future of humanity may not only depend on extending biological lifespan, but
 
 However, consciousness uploading is not merely a problem of copying information.
 
-A truly digital human requires:
+A more authentic digital human requires:
 
 - continuity of subjective experience
 - preservation of personal identity
@@ -115,4 +115,4 @@ https://www.zhihu.com/column/c_1866822342367375361
 
 This repository is an ongoing research and engineering exploration.
 
-The future of consciousness may require not only better AI systems, but a new engineering discipline for designing, preserving, and extending subjective existence.
+The future of consciousness may require not only better AI systems, but a new engineering discipline for designing, preserving, and extending subjective existence
