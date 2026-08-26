@@ -5,6 +5,8 @@
 ## 注意
 目前用的是Deepseek的API，这个请使用者将自己的API_KEY放在config.py的对应字符串常量里面即可运行。
 
+运行方式是运行app.py即可（下载zip包，解压，然后运行app.py）
+
 ## 架构图
 
 ![Digital Subject Architecture](图片1.png)
